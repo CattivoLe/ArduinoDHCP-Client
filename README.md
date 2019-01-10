@@ -7,6 +7,4 @@ All he can do is get an IP address, display it on a small screen and make a PING
 
 Changing information on the screen occurs in a cycle, after clicking on a single button
 
-Please note that this project is my first serious development, parts of the code were taken from examples of the library.
-
-This is my first experience therefore you shouldn't concern prejudicedly.
+Please note that this project is my first experience, parts of the code were taken from examples of the library.
